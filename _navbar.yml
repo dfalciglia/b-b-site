@@ -1,0 +1,8 @@
+title: "B&B site"
+type: default
+left:
+
+text: "Home"
+href: index.html
+text: "Rooms"
+href: room-a.html
