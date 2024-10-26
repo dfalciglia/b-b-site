@@ -1,2 +1,3 @@
-# b-b-site
-Test a B&amp;B site creation using GitHub pages
+# Benvenuti al B&B Vista Mare Calabria
+
+Immerso su una collina con vista mozzafiato sullo Stretto di Messina, il nostro B&B vi regala un panorama unico sul mare e sulle coste siciliane. Ogni camera, arredata con cura per il massimo comfort, offre una finestra su questo spettacolo naturale, dove albe e tramonti colorano l’orizzonte. Ideale per chi cerca relax e autenticità, il B&B combina ospitalità calabrese e bellezza mediterranea in un’esperienza indimenticabile. Scoprite il fascino del nostro angolo di Calabria, dove ogni giorno è un invito alla tranquillità e alla scoperta.
